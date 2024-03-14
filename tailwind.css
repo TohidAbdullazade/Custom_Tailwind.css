@@ -5258,7 +5258,7 @@
     bottom: 90%;
 }
 
-/* =======================================> FLEX JUSTIFY-CONTENT <================================================ */
+/* ======================================> FLEX JUSTIFY-CONTENT <=============================================== */
 
 .flex {
 
@@ -5313,7 +5313,271 @@
     flex-wrap: wrap;
 }
 
-/* ===========================================> FLEX DIRECTION  <================================================= */
+/* =============================================> FLEX GAP <=============================================== */
+.gap-0 {
+    display: flex;
+    gap: 0;
+
+}
+
+.gap-1 {
+    display: flex;
+    gap: 4px;
+}
+
+.gap-2 {
+    display: flex;
+    gap: 8px;
+}
+
+
+.gap-4 {
+    display: flex;
+    gap: 16px;
+}
+
+.gap-6 {
+    display: flex;
+    gap: 24px;
+}
+
+.gap-8 {
+    display: flex;
+    gap: 32px;
+}
+
+.gap-10 {
+    display: flex;
+    gap: 40px;
+}
+
+.gap-12 {
+    display: flex;
+    gap: 48px;
+}
+
+.gap-14 {
+    display: flex;
+    gap: 56px;
+}
+
+.gap-16 {
+    display: flex;
+    gap: 64px;
+}
+
+.gap-18 {
+    display: flex;
+    gap: 72px;
+}
+
+.gap-20 {
+    display: flex;
+    gap: 80px;
+}
+
+.gap-22 {
+    display: flex;
+    gap: 88px;
+}
+
+.gap-24 {
+    display: flex;
+    gap: 96px;
+}
+
+.gap-26 {
+    display: flex;
+    gap: 104px;
+}
+
+.gap-28 {
+    display: flex;
+    gap: 112px;
+}
+
+.gap-30 {
+    display: flex;
+    gap: 120px;
+}
+
+.gap-32 {
+    display: flex;
+    gap: 128px;
+}
+
+.gap-34 {
+    display: flex;
+    gap: 136px;
+}
+
+.gap-36 {
+    display: flex;
+    gap: 144px;
+}
+
+.gap-38 {
+    display: flex;
+    gap: 152px;
+}
+
+.gap-40 {
+    display: flex;
+    gap: 160px;
+}
+
+.gap-42 {
+    display: flex;
+    gap: 168px;
+}
+
+.gap-44 {
+    display: flex;
+    gap: 176px;
+}
+
+.gap-46 {
+    display: flex;
+    gap: 184px;
+}
+
+.gap-48 {
+    display: flex;
+    gap: 192px;
+}
+
+.gap-50 {
+    display: flex;
+    gap: 200px;
+}
+
+.gap-52 {
+    display: flex;
+    gap: 208px;
+}
+
+.gap-54 {
+    display: flex;
+    gap: 216px;
+}
+
+.gap-56 {
+    display: flex;
+    gap: 224px;
+}
+
+.gap-58 {
+    display: flex;
+    gap: 232px;
+}
+
+.gap-60 {
+    display: flex;
+    gap: 240px;
+}
+
+.gap-62 {
+    display: flex;
+    gap: 248px;
+}
+
+.gap-64 {
+    display: flex;
+    gap: 256px;
+}
+
+.gap-66 {
+    display: flex;
+    gap: 264px;
+}
+
+.gap-68 {
+    display: flex;
+    gap: 272px;
+}
+
+.gap-70 {
+    display: flex;
+    gap: 280px;
+}
+
+.gap-72 {
+    display: flex;
+    gap: 288px;
+}
+
+.gap-74 {
+    display: flex;
+    gap: 296px;
+}
+
+.gap-76 {
+    display: flex;
+    gap: 304px;
+}
+
+.gap-78 {
+    display: flex;
+    gap: 312px;
+}
+
+.gap-80 {
+    display: flex;
+    gap: 320px;
+}
+
+.gap-82 {
+    display: flex;
+    gap: 328px;
+}
+
+.gap-84 {
+    display: flex;
+    gap: 336px;
+}
+
+.gap-86 {
+    display: flex;
+    gap: 344px;
+}
+
+.gap-88 {
+    display: flex;
+    gap: 352px;
+}
+
+.gap-90 {
+    display: flex;
+    gap: 360px;
+}
+
+.gap-92 {
+    display: flex;
+    gap: 368px;
+}
+
+.gap-94 {
+    display: flex;
+    gap: 376px;
+}
+
+.gap-96 {
+    display: flex;
+    gap: 384px;
+}
+
+.gap-98 {
+    display: flex;
+    gap: 392px;
+}
+
+.gap-100 {
+    display: flex;
+    gap: 400px;
+}
+
+
+/* ===========================================> FLEX DIRECTION  <================================================ */
 .flex-col {
     display: flex;
     flex-direction: column;
