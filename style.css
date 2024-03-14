@@ -2672,6 +2672,7 @@
     margin-right: 264px;
 }
 
+
 .mr-68 {
     margin-right: 272px;
 }
@@ -6541,7 +6542,7 @@
 
 /* ===============================================> FONT WEIGHT <=============================================== */
 .font-lighter {
-    font-weight: lighter;
+    font-style: lighter;
 }
 
 .font-light {
@@ -6550,6 +6551,22 @@
 
 .font-normal {
     font-weight: normal;
+}
+
+.font-600 {
+    font-weight: 600;
+}
+
+.font-700 {
+    font-weight: 700;
+}
+
+.font-800 {
+    font-weight: 800;
+}
+
+.font-900 {
+    font-weight: 900;
 }
 
 .font-bold {
@@ -6563,6 +6580,13 @@
 .font-semi-bold {
     font-weight: 900;
 }
+
+/* ===============================================> FONT STYLE <=============================================== */
+
+.font-italic {
+    font-style: italic;
+}
+
 
 /* ===============================================> TEXT ALIGN <================================================= */
 .text-center {
@@ -6580,3 +6604,5 @@
 .text-justify {
     text-align: justify;
 }
+
+/* ************************************************************************************************************** */
